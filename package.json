@@ -1,0 +1,22 @@
+{
+  "name": "crypto-bot",
+  "version": "0.0.1",
+  "description": "A node server that helps you manage crypto positions on GDAX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anauleau/crypto-bot.git"
+  },
+  "author": "Andreas Nauleau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anauleau/crypto-bot/issues"
+  },
+  "homepage": "https://github.com/anauleau/crypto-bot#readme",
+  "dependencies": {
+    "hapi": "^17.1.1"
+  }
+}
